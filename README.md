@@ -1,6 +1,6 @@
 # koala-tree
 
-基于Vue3和TypeScript实现的仿飞书的树形结构目录，传入树形接口数据即可。只实现了基本功能，还有很大的进步的空间~~
+基于Vite+Vue3+TypeScript实现的仿飞书的树形结构目录，传入树形接口数据即可。只实现了基本功能，还有很大的进步的空间~~
 
 ![2024-05-29 09-18-57](https://kinnong-1301438479.cos.ap-guangzhou.myqcloud.com/PicGo/202405311603142.gif)
 
