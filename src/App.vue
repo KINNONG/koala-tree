@@ -117,7 +117,7 @@ const handleRemove = (nodeId: number) => {
         return;
       }
       if (node.children) {
-        // 递归查找子节点
+        // 递归查找子节点，随后进行删除
         findNode(node.children);
       }
     });
